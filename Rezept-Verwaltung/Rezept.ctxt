@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Rezept
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=schluessel
+comment1.target=Rezept(java.lang.String)
+comment2.params=text
+comment2.target=void\ setBeschreibung(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getBeschreibung()
+comment4.params=
+comment4.target=java.lang.String\ getSchluessel()
+comment5.params=pRezept
+comment5.target=boolean\ isGreater(Rezept)
+comment6.params=pRezept
+comment6.target=boolean\ isLess(Rezept)
+comment7.params=pRezept
+comment7.target=boolean\ isEqual(Rezept)
+numComments=8

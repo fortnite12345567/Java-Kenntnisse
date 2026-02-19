@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Kochbuch
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=
+comment1.target=Kochbuch()
+comment2.params=
+comment2.target=void\ baumAufstellen()
+comment3.params=pSchluessel
+comment3.target=void\ suche(java.lang.String)
+numComments=4
