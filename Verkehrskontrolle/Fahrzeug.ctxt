@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Fahrzeug
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=pModell\ pFarbe\ pKennzeichen\ pVerkehrstauglichkeit
+comment1.target=Fahrzeug(java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=boolean\ getVerkehrstauglichkeit()
+numComments=3
