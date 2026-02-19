@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Containerschiff
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=pH\u00F6he
+comment1.target=Containerschiff(int)
+comment2.params=pContainer
+comment2.target=void\ aufSchiffladen(Container)
+comment3.params=
+comment3.target=boolean\ schiffLeer()
+comment4.params=
+comment4.target=boolean\ schiff()
+comment5.params=
+comment5.target=void\ ladungL\u00F6schen()
+numComments=6
