@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Test
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=
+comment1.target=Test()
+comment2.params=
+comment2.target=void\ setBinaryTreeUp()
+comment3.params=pFinn\ pDc
+comment3.target=void\ preOrder(int,\ BinaryTree)
+comment4.params=pDc
+comment4.target=void\ ausgeben(BinaryTree)
+numComments=5
