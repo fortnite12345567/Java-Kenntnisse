@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Kreis
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=pRadius
+comment1.target=Kreis(double)
+comment2.params=
+comment2.target=double\ getRadius()
+comment3.params=
+comment3.target=double\ berechneFlaecheninhalt()
+comment4.params=
+comment4.target=double\ berechneUmfang()
+numComments=5

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Quadrat
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=pSeitenlaenge
+comment1.target=Quadrat(double)
+comment2.params=
+comment2.target=double\ getSeitenlaenge()
+comment3.params=
+comment3.target=double\ berechneFlaecheninhalt()
+comment4.params=
+comment4.target=double\ berechneUmfang()
+numComments=5

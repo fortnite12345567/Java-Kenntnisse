@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Flaecheninhalt
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=
+comment1.target=double\ berechneFlaecheninhalt()
+comment2.params=
+comment2.target=double\ berechneUmfang()
+numComments=3
