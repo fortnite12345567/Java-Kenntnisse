@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Papiere
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=pBestand\ pVerkauft\ pVorhanden\ pArt\ pName\ pArtNr\ pPreis\ pDicke\ pFormat\ pFarbe
+comment1.target=Papiere(int,\ int,\ boolean,\ java.lang.String,\ java.lang.String,\ int,\ double,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getFarbe()
+comment3.params=
+comment3.target=java.lang.String\ getFormat()
+comment4.params=
+comment4.target=java.lang.String\ getDicke()
+comment5.params=pFarbe
+comment5.target=void\ setFarbe(java.lang.String)
+comment6.params=pFormat
+comment6.target=void\ setFormat(java.lang.String)
+comment7.params=pDicke
+comment7.target=void\ setDicke(java.lang.String)
+numComments=8

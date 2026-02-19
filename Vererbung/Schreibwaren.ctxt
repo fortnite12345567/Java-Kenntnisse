@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Schreibwaren
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=pBestand\ pVerkauft\ pVorhanden\ pArt\ pName\ pArtNr\ pPreis
+comment1.target=Schreibwaren(int,\ int,\ boolean,\ java.lang.String,\ java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getArt()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=int\ getArtNr()
+comment5.params=
+comment5.target=double\ getPreis()
+comment6.params=pArt
+comment6.target=void\ setArt(java.lang.String)
+comment7.params=pName
+comment7.target=void\ setName(java.lang.String)
+comment8.params=pArtNr
+comment8.target=void\ setArtNr(int)
+comment9.params=pPreis
+comment9.target=void\ preis(double)
+numComments=10

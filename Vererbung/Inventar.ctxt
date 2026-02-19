@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Inventar
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=pBestand\ pVerkauft\ pVorhanden
+comment1.target=Inventar(int,\ int,\ boolean)
+comment2.params=
+comment2.target=int\ getBestand()
+comment3.params=
+comment3.target=int\ getVerkauft()
+comment4.params=
+comment4.target=boolean\ getVorhanden()
+comment5.params=pBestand
+comment5.target=void\ setBestand(int)
+comment6.params=pVerkauft
+comment6.target=void\ setVerkauft(int)
+comment7.params=pVorhanden
+comment7.target=void\ setVorhanden(boolean)
+numComments=8
