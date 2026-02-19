@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Spiel
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=
+comment1.target=Spiel()
+comment2.params=
+comment2.target=void\ w\u00FCrfeln()
+comment3.params=pSpiel
+comment3.target=void\ besterDurchgang(int[][])
+numComments=4
