@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Spieler
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=pName
+comment1.target=Spieler(java.lang.String)
+comment2.params=
+comment2.target=void\ printAktuellesDeck()
+comment3.params=pSpalte1\ pSpalte2
+comment3.target=void\ tausche(int,\ int)
+comment4.params=
+comment4.target=void\ umsortieren()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=
+comment6.target=Karte[]\ getHand()
+comment7.params=pI
+comment7.target=Karte\ getKarte(int)
+comment8.params=pI
+comment8.target=java.lang.String\ karteSpielen(int)
+comment9.params=pK\ pI
+comment9.target=void\ karteZumDeck(Karte,\ int)
+numComments=10

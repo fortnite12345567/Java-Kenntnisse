@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Karte
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=pName\ pSt\ pGk\ pSk
+comment1.target=Karte(java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getStaerke()
+comment4.params=
+comment4.target=int\ getGeisteskraft()
+comment5.params=
+comment5.target=int\ getSchnelligkeit()
+numComments=6

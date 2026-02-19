@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Manager
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=pSpieler1\ pSpieler2
+comment1.target=Manager(Spieler,\ Spieler)
+comment2.params=sP1\ sP2
+comment2.target=Spieler\ getGewinner(int,\ int)
+numComments=3
