@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TypF
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=pLeergewicht\ pZielgebiet
+comment1.target=TypF(int,\ char)
+comment2.params=
+comment2.target=java.lang.String\ auskunft()
+numComments=3

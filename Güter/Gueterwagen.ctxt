@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Gueterwagen
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=pLeergewicht\ pZielgebiet
+comment1.target=Gueterwagen(int,\ char)
+numComments=2
