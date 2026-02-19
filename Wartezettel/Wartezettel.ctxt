@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Wartezettel
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=pNummer
+comment1.target=Wartezettel(int)
+comment2.params=
+comment2.target=int\ getNummer()
+numComments=3

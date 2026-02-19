@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Buergerbuero
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=
+comment1.target=Buergerbuero()
+comment2.params=pW
+comment2.target=void\ kundeKommt(Wartezettel)
+comment3.params=
+comment3.target=void\ kundeIstDran()
+comment4.params=
+comment4.target=boolean\ keineKunden()
+comment5.params=
+comment5.target=int\ aktNummer()
+numComments=6
