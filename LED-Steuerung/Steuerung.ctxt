@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Steuerung
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=
+comment1.target=Steuerung()
+comment2.params=pLichterkette
+comment2.target=void\ lichterketteAnh\u00E4ngen(List)
+comment3.params=
+comment3.target=void\ alleLEDsAnmachen()
+comment4.params=
+comment4.target=void\ jedes2teLEDAnmachen()
+comment5.params=
+comment5.target=void\ jedes3teLEDAnmachen()
+numComments=6
